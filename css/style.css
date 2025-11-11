@@ -276,8 +276,6 @@ header .nav {
     display: inline-block;
     margin: 0 7px;
 }
-/* padding hamesha anchor tag ko dete h list tag ko nahi, kisi m bhi doge toh 
-result toh same aayga but list m nhi deni chaiye uska reason hota h kuch */
 .mainbar .navbar li  a {
     color: white;
     font-size: 16px;
@@ -724,4 +722,5 @@ footer p.end-text a{
     color: #fff;
     text-decoration: underline;
 }
+
 
